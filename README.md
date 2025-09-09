@@ -10,7 +10,7 @@ Users can add tasks to a list and remove them once completed.
 - Tasks are stored in an `ArrayList`.
 
 ## Preview
-![App Preview](todo-list-demo.png)
+![App Preview](todo-list-demo)
 
 ## How to Run
 1. Clone this repository.
