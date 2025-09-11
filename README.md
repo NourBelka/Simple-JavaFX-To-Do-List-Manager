@@ -1,4 +1,4 @@
-# Simple-JavaFX-To-Do-List-Manager
+# Simple JavaFX To-Do List Manager
 
 This is a basic JavaFX project for managing tasks.  
 Users can add tasks to a list and remove them once completed.  
