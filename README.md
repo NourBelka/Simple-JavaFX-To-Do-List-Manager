@@ -9,16 +9,11 @@ Users can add tasks to a list and remove them once completed.
 - Remove one or more selected tasks.
 - Tasks are stored in an `ArrayList`.
 
-## Preview
-![App Preview](todo-list-demo.png)
-
 ## How to Run
 1. Clone this repository.
 2. Open the project in your IDE (e.g., IntelliJ or Eclipse) with JavaFX set up.
 3. Run the `Main.java` file.
 
-## Assignment Context
-This project was originally built as part of a JavaFX assignment.  
-Requirements included adding tasks, displaying them, and removing selected ones.
-
+## Preview
+![App Preview](todo-list-demo.png)
 ---
